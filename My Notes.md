@@ -1,2 +1,0 @@
-- [[BigData/Big Data|Big Data]]
-- 
